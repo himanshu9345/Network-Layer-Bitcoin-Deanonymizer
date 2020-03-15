@@ -1,0 +1,1 @@
+1 .download thebitcoin core from the given link https://bitcoin.org/en/download
